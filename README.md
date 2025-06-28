@@ -1,5 +1,3 @@
-Here's a detailed `README.md` for your **Formula 1 Race Prediction** project, based on the structure from your outline and deployment plans:
-
 ---
 
 # 🏎️ Formula 1 Race Outcome Prediction
